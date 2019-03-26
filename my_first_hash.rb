@@ -1,6 +1,6 @@
 def my_hash
-  myhash = {}
-  myhash
+  test_hash = {}
+  test_hash
 end
 
 
